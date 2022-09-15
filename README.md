@@ -1,7 +1,8 @@
-# etherscan-client-proxy
-
-
-
+# Project : etherscan-client-proxy
+### Developed by : Monzer Masri   
+   
+   
+   
 # Steps to run the project : 
 ### 1- ```git clone https://github.com/mounzer-masri/etherscan-client-proxy```  
 ### 2- ```npm install```  
